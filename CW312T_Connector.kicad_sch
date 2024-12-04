@@ -1448,6 +1448,12 @@
 		(uuid "1324b156-fc2c-46e2-afa4-221cde5e03d1")
 	)
 	(junction
+		(at 105.41 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1b176a5b-899f-4ab2-be95-da81e65e19c2")
+	)
+	(junction
 		(at 154.94 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1458,6 +1464,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "46b60603-8d4b-4d1a-942e-8acc22115250")
+	)
+	(junction
+		(at 151.13 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4f998519-40ce-41b9-85dc-a03cdd8a598f")
 	)
 	(junction
 		(at 154.94 69.85)
@@ -1629,23 +1641,13 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 72.39) (xy 163.83 72.39)
+			(xy 147.32 72.39) (xy 151.13 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "10481db5-0059-4b80-84e5-643dc775d11a")
-	)
-	(wire
-		(pts
-			(xy 93.98 113.03) (xy 93.98 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "11b28a3e-7d1c-4a55-9e96-b389dd382aa2")
 	)
 	(wire
 		(pts
@@ -1679,7 +1681,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 68.58) (xy 163.83 72.39)
+			(xy 151.13 38.1) (xy 151.13 59.69)
 		)
 		(stroke
 			(width 0)
@@ -1729,7 +1731,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 59.69) (xy 109.22 59.69)
+			(xy 105.41 59.69) (xy 109.22 59.69)
 		)
 		(stroke
 			(width 0)
@@ -1849,6 +1851,16 @@
 	)
 	(wire
 		(pts
+			(xy 105.41 113.03) (xy 109.22 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7036d548-a6ef-438c-83ad-de4ebd32259f")
+	)
+	(wire
+		(pts
 			(xy 147.32 80.01) (xy 170.18 80.01)
 		)
 		(stroke
@@ -1919,6 +1931,16 @@
 	)
 	(wire
 		(pts
+			(xy 86.36 125.73) (xy 109.22 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "965dbe66-4f2d-4adf-ba39-f1640f7e197f")
+	)
+	(wire
+		(pts
 			(xy 86.36 69.85) (xy 109.22 69.85)
 		)
 		(stroke
@@ -1929,13 +1951,13 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 125.73) (xy 109.22 125.73)
+			(xy 105.41 59.69) (xy 105.41 113.03)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a2e7517b-0ee4-4c9d-a0ac-0e62dd43944b")
+		(uuid "a3e7fb9c-5110-49f8-a16d-833376c1b2db")
 	)
 	(wire
 		(pts
@@ -2059,16 +2081,6 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 113.03) (xy 109.22 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d4ae8aa3-258a-4874-809a-8d7fbe9c8e43")
-	)
-	(wire
-		(pts
 			(xy 101.6 67.31) (xy 109.22 67.31)
 		)
 		(stroke
@@ -2079,13 +2091,13 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 59.69) (xy 170.18 59.69)
+			(xy 147.32 59.69) (xy 151.13 59.69)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e0211ad4-53ae-4ada-92b1-dd85d55c9a38")
+		(uuid "da22425f-4199-430e-a34c-f1fe0064ddc7")
 	)
 	(wire
 		(pts
@@ -2099,13 +2111,23 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 59.69) (xy 93.98 43.18)
+			(xy 105.41 59.69) (xy 105.41 38.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "e2d9fee1-7f16-42c0-984a-f6ff12b00bbd")
+	)
+	(wire
+		(pts
+			(xy 151.13 59.69) (xy 151.13 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e537b35a-460e-4ee5-aa6f-63d2b1b1cd34")
 	)
 	(wire
 		(pts
@@ -2189,7 +2211,7 @@
 	)
 	(text "HDR9 and HDR10 have no connections on the old schematic to the ic or header but have pin names removed pin names for now confirm later"
 		(exclude_from_sim no)
-		(at 17.78 95.758 0)
+		(at -14.986 96.012 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2208,28 +2230,6 @@
 		)
 		(uuid "01992833-61b1-4120-ab24-0c4743b1e7d9")
 	)
-	(label "VCC3.3"
-		(at 170.18 59.69 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "56c5af02-6497-49b7-b377-c6793221914d")
-	)
-	(label "VCC3.3"
-		(at 93.98 59.69 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5983725a-db6c-4e5a-9879-63f264de0c57")
-	)
 	(label "FILT_HP"
 		(at 86.36 54.61 0)
 		(fields_autoplaced yes)
@@ -2241,16 +2241,137 @@
 		)
 		(uuid "5da9b97a-b215-4baf-b0fc-bf9f13ead2da")
 	)
-	(label "nRST"
-		(at 86.36 125.73 0)
+	(global_label "nRST"
+		(shape input)
+		(at 86.36 125.73 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right)
 		)
-		(uuid "ca47c9cf-cead-41c1-b29b-47c43cfad69c")
+		(uuid "14ada726-7bfb-41c7-a74b-b9ef1bf27cd6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 78.7787 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "JTAG_TDO"
+		(shape input)
+		(at 170.18 123.19 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "193cf655-c4a5-4618-b8d5-35437d237385")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 181.9947 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "JTAG_TCK"
+		(shape input)
+		(at 170.18 128.27 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3876a5cb-56f1-4c06-b37a-b03bfe3c4ad6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 181.9342 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "JTAG_TDI"
+		(shape input)
+		(at 170.18 120.65 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4b0ced94-3008-4e65-ac7d-15c06ed5eb62")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 181.269 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "JTAG_TMS"
+		(shape input)
+		(at 170.18 125.73 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "50a87d0d-be6d-431a-8fdd-69b7834a808d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 182.0551 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "nRST"
+		(shape input)
+		(at 170.18 82.55 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "de0ea2ba-f80a-49f1-bb6b-d96105489cf5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 177.7613 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
 	(hierarchical_label "LED1"
 		(shape input)
@@ -2264,18 +2385,6 @@
 		)
 		(uuid "0661bb39-2823-42a2-8177-74483766d07f")
 	)
-	(hierarchical_label "JTAG_TMS"
-		(shape input)
-		(at 170.18 125.73 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "21a93bd6-8e5b-44cc-930d-8b5cdd5eeffa")
-	)
 	(hierarchical_label "CLKIN"
 		(shape input)
 		(at 170.18 115.57 0)
@@ -2287,18 +2396,6 @@
 			(justify left)
 		)
 		(uuid "34b34e13-b269-4a91-8e0e-3d9c4ef02c1f")
-	)
-	(hierarchical_label "JTAG_TDO"
-		(shape input)
-		(at 170.18 123.19 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "39f1742f-8e5b-4343-9b19-2171160b2b80")
 	)
 	(hierarchical_label "HDR5"
 		(shape input)
@@ -2384,18 +2481,6 @@
 		)
 		(uuid "7efaf5e8-6d78-4c36-88c4-79f33a7a8c7a")
 	)
-	(hierarchical_label "JTAG_TCK"
-		(shape input)
-		(at 170.18 128.27 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "9004b908-2b02-4d3c-bfbf-c8c201edfe7b")
-	)
 	(hierarchical_label "LED2"
 		(shape input)
 		(at 170.18 77.47 0)
@@ -2419,30 +2504,6 @@
 			(justify right)
 		)
 		(uuid "9f644560-fb7b-475a-bf63-3313f7d1738b")
-	)
-	(hierarchical_label "JTAG_TDI"
-		(shape input)
-		(at 170.18 120.65 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a7e7c671-e423-4c25-9d0e-7ae3f1d28515")
-	)
-	(hierarchical_label "nRST"
-		(shape input)
-		(at 170.18 82.55 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "ae3ba90a-8e1b-4b56-aad8-197c1e5c8f82")
 	)
 	(hierarchical_label "JTAG_TRST"
 		(shape input)
@@ -2655,7 +2716,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 93.98 43.18 0)
+		(at 105.41 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2663,7 +2724,7 @@
 		(dnp no)
 		(uuid "497fa3cd-68c4-49ca-aa61-91774f225004")
 		(property "Reference" "#PWR01"
-			(at 93.98 46.99 0)
+			(at 105.41 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2672,7 +2733,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 93.98 39.116 0)
+			(at 105.41 34.036 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2680,7 +2741,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 93.98 43.18 0)
+			(at 105.41 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2689,7 +2750,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 93.98 43.18 0)
+			(at 105.41 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2698,7 +2759,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 93.98 43.18 0)
+			(at 105.41 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2720,7 +2781,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 163.83 68.58 0)
+		(at 151.13 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2728,7 +2789,7 @@
 		(dnp no)
 		(uuid "5fae16b0-79f0-4f92-8546-cf491e889365")
 		(property "Reference" "#PWR04"
-			(at 163.83 72.39 0)
+			(at 151.13 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2737,7 +2798,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 163.83 65.024 0)
+			(at 151.13 34.544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2745,7 +2806,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 163.83 68.58 0)
+			(at 151.13 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2754,7 +2815,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 163.83 68.58 0)
+			(at 151.13 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2763,7 +2824,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 163.83 68.58 0)
+			(at 151.13 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2778,71 +2839,6 @@
 			(project ""
 				(path "/ece4ddd9-bce6-488f-8cc3-9727cdb2c227/8c7b6d59-2095-41d5-a8e3-3e94e254f14b"
 					(reference "#PWR04")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VCC")
-		(at 93.98 107.95 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7b0cc403-6764-47d4-8444-2885f5cf6075")
-		(property "Reference" "#PWR05"
-			(at 93.98 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VCC"
-			(at 93.98 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 93.98 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 93.98 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 93.98 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fa65d142-e7d5-415a-af50-941bd2cc8dae")
-		)
-		(instances
-			(project ""
-				(path "/ece4ddd9-bce6-488f-8cc3-9727cdb2c227/8c7b6d59-2095-41d5-a8e3-3e94e254f14b"
-					(reference "#PWR05")
 					(unit 1)
 				)
 			)

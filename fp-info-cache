@@ -1,4 +1,4 @@
-24054686466014020
+24059885181163246
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -97867,12 +97867,33 @@ Varistor VF
 2
 2
 tutorial_2_library
+BGA84C65P10X10_700X700X80
+
+
+0
+84
+84
+tutorial_2_library
+BGA416C100P26X26_2700X2700X255N
+
+
+0
+416
+416
+tutorial_2_library
 BUS_PCIexpress_x4
 PCIexpress Bus Edge Connector x1 http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=70
 PCIe
 0
 82
 65
+tutorial_2_library
+CONN_232-5205-01_3MM
+
+232-5205-01 
+0
+35
+35
 tutorial_2_library
 CW312_Template
 PCIexpress Bus Edge Connector x1 http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=70
