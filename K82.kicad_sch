@@ -447,593 +447,7 @@
 				)
 			)
 		)
-		(symbol "nae_caps:CAP_100n_6.3V_0603"
-			(pin_numbers hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "C"
-				(at -20.32 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "CAP_100n_6.3V_0603"
-				(at 7.62 -19.05 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-				(at -3.81 -15.24 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-250V_24.pdf"
-				(at 8.89 -10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "CAP CER 0.1UF 6.3V X7R 0603"
-				(at -1.27 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Display Value" "100n"
-				(at 15.24 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer" "YAGEO"
-				(at -12.7 -19.05 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer Part Number" "CC0603KRX7R5BB104"
-				(at -3.81 -12.7 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Supplier 1" "DigiKey"
-				(at -19.05 -21.59 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Supplier 1 Part Number" "13-CC0603KRX7R5BB104CT-ND"
-				(at 8.89 -21.59 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Supplier 2" "no_data"
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Supplier 2 Part Number" "no_data"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "CAP CER 0.1UF 6.3V X7R 0603"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "CAP_100n_6.3V_0603_0_1"
-				(polyline
-					(pts
-						(xy -0.762 -2.032) (xy -0.762 2.032)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 -2.032) (xy 0.762 2.032)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "CAP_100n_6.3V_0603_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 2.794)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 2.794)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "nae_caps:CAP_2u2_6.3V_0603"
-			(pin_numbers hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "C"
-				(at -20.32 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "CAP_2u2_6.3V_0603"
-				(at 7.62 -19.05 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-				(at -3.81 -15.24 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-250V_24.pdf"
-				(at 8.89 -10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "CAP CER 2.2UF 6.3V X7R 0603"
-				(at -1.27 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Display Value" "2u2"
-				(at 15.24 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer" "YAGEO"
-				(at -12.7 -19.05 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer Part Number" "CC0603KRX7R5BB225"
-				(at -3.81 -12.7 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Supplier 1" "DigiKey"
-				(at -19.05 -21.59 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Supplier 1 Part Number" "311-1795-1-ND"
-				(at 8.89 -21.59 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Supplier 2" "no_data"
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Supplier 2 Part Number" "no_data"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "CAP CER 2.2UF 6.3V X7R 0603"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "CAP_2u2_6.3V_0603_0_1"
-				(polyline
-					(pts
-						(xy -0.762 -2.032) (xy -0.762 2.032)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 -2.032) (xy 0.762 2.032)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "CAP_2u2_6.3V_0603_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 2.794)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 2.794)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "power:GND"
-			(power)
-			(pin_numbers hide)
-			(pin_names
-				(offset 0) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 -6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "GND"
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "GND_0_1"
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "GND_1_1"
-				(pin power_in line
-					(at 0 0 270)
-					(length 0)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "power:VCC"
-			(power)
-			(pin_numbers hide)
-			(pin_names
-				(offset 0) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "VCC"
-				(at 0 3.556 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"VCC\""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "VCC_0_1"
-				(polyline
-					(pts
-						(xy -0.762 1.27) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "VCC_1_1"
-				(pin power_in line
-					(at 0 0 90)
-					(length 0)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "tutorial_2_library:20_pin_header"
+		(symbol "NAE_Connectors:VERT_HDR_2x10_1.27mm"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1054,7 +468,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_2x10_P1.00mm_Vertical_SMD"
+			(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_2x10_P1.27mm_Vertical_SMD"
 				(at -6.35 -96.52 0)
 				(effects
 					(font
@@ -1152,7 +566,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "20_pin_header_1_1"
+			(symbol "VERT_HDR_2x10_1.27mm_1_1"
 				(rectangle
 					(start -2.54 2.54)
 					(end 2.54 -25.4)
@@ -1526,192 +940,7 @@
 				)
 			)
 		)
-		(symbol "tutorial_2_library:DNM_0603_cap"
-			(pin_numbers hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "C"
-				(at -20.32 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "DNM_CAP_0603"
-				(at 7.62 -19.05 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-				(at -3.81 -15.24 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"
-				(at 8.89 -10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Non mounted 0603_1608 ceramic capacitor"
-				(at -1.27 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Display Value" "DNM"
-				(at 15.24 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer" "KEMET"
-				(at -12.7 -19.05 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer Part Number" "C0603C225K4PAC7867"
-				(at -3.81 -12.7 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Supplier 1" "DigiKey"
-				(at -19.05 -21.59 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Supplier 1 Part Number" "399-C0603C225K4PAC7867CT-ND"
-				(at 8.89 -21.59 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Supplier 2" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Supplier 2 Part Number" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" " Ceramic Capacitor X5R 0603 (1608 Metric)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "DNM_0603_cap_0_1"
-				(polyline
-					(pts
-						(xy -0.762 -2.032) (xy -0.762 2.032)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 -2.032) (xy 0.762 2.032)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "DNM_0603_cap_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 2.794)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 2.794)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "tutorial_2_library:MK82FN256VLL15"
+		(symbol "NAE_Integrated_Circuits:MK82FN256VLL15"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -3644,6 +2873,777 @@
 				)
 			)
 		)
+		(symbol "nae_caps:CAP_100n_6.3V_0603"
+			(pin_numbers hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at -20.32 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CAP_100n_6.3V_0603"
+				(at 7.62 -19.05 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+				(at -3.81 -15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-250V_24.pdf"
+				(at 8.89 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "CAP CER 0.1UF 6.3V X7R 0603"
+				(at -1.27 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Display Value" "100n"
+				(at 15.24 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "YAGEO"
+				(at -12.7 -19.05 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer Part Number" "CC0603KRX7R5BB104"
+				(at -3.81 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier 1" "DigiKey"
+				(at -19.05 -21.59 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier 1 Part Number" "13-CC0603KRX7R5BB104CT-ND"
+				(at 8.89 -21.59 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier 2" "no_data"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier 2 Part Number" "no_data"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "CAP CER 0.1UF 6.3V X7R 0603"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CAP_100n_6.3V_0603_0_1"
+				(polyline
+					(pts
+						(xy -0.762 -2.032) (xy -0.762 2.032)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -2.032) (xy 0.762 2.032)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "CAP_100n_6.3V_0603_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "nae_caps:CAP_2u2_6.3V_0603"
+			(pin_numbers hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at -20.32 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CAP_2u2_6.3V_0603"
+				(at 7.62 -19.05 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+				(at -3.81 -15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-250V_24.pdf"
+				(at 8.89 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "CAP CER 2.2UF 6.3V X7R 0603"
+				(at -1.27 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Display Value" "2u2"
+				(at 15.24 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "YAGEO"
+				(at -12.7 -19.05 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer Part Number" "CC0603KRX7R5BB225"
+				(at -3.81 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier 1" "DigiKey"
+				(at -19.05 -21.59 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier 1 Part Number" "311-1795-1-ND"
+				(at 8.89 -21.59 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier 2" "no_data"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier 2 Part Number" "no_data"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "CAP CER 2.2UF 6.3V X7R 0603"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CAP_2u2_6.3V_0603_0_1"
+				(polyline
+					(pts
+						(xy -0.762 -2.032) (xy -0.762 2.032)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -2.032) (xy 0.762 2.032)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "CAP_2u2_6.3V_0603_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "nae_caps:CAP_DNM_0603"
+			(pin_numbers hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at -20.32 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "DNM_CAP_0603"
+				(at 7.62 -19.05 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+				(at -3.81 -15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"
+				(at 8.89 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Non mounted 0603_1608 ceramic capacitor"
+				(at -1.27 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Display Value" "DNM"
+				(at 15.24 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "KEMET"
+				(at -12.7 -19.05 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer Part Number" "C0603C225K4PAC7867"
+				(at -3.81 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier 1" "DigiKey"
+				(at -19.05 -21.59 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier 1 Part Number" "399-C0603C225K4PAC7867CT-ND"
+				(at 8.89 -21.59 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier 2" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier 2 Part Number" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" " Ceramic Capacitor X5R 0603 (1608 Metric)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CAP_DNM_0603_0_1"
+				(polyline
+					(pts
+						(xy -0.762 -2.032) (xy -0.762 2.032)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -2.032) (xy 0.762 2.032)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "CAP_DNM_0603_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "power:GND"
+			(power)
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "power:VCC"
+			(power)
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VCC"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"VCC\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VCC_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "VCC_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 	)
 	(junction
 		(at 237.49 87.63)
@@ -4295,7 +4295,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 140.97) (xy 205.74 152.4)
+			(xy 205.74 140.97) (xy 205.74 148.59)
 		)
 		(stroke
 			(width 0)
@@ -5285,7 +5285,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 66.04) (xy 237.49 72.39)
+			(xy 237.49 67.31) (xy 237.49 72.39)
 		)
 		(stroke
 			(width 0)
@@ -6260,6 +6260,190 @@
 		(uuid "e73d31cc-e3e0-49ce-9a7d-bc11476eaf65")
 	)
 	(symbol
+		(lib_id "NAE_Connectors:VERT_HDR_2x10_1.27mm")
+		(at 219.71 118.11 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "00f5f952-4938-4420-aa9f-f2cb22c0f868")
+		(property "Reference" "J1"
+			(at 218.186 114.554 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "20_pin"
+			(at 224.79 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_2x10_P1.27mm_Vertical_SMD"
+			(at 213.36 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/boardwiretoboard/bwb_minitek127_btb.pdf"
+			(at 243.84 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CONN HEADER SMD 20POS 1.27MM"
+			(at 233.68 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display Value" "1296-T20"
+			(at 219.71 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Amphenol ICC (FCI)"
+			(at 204.47 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "20021121-00020T4LF"
+			(at 203.2 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1" "DigiKey"
+			(at 198.12 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Part Number" "20021121-00020T4LF-ND"
+			(at 226.06 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 2" ""
+			(at 207.01 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 2 Part Number" ""
+			(at 207.01 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "7"
+			(uuid "9892e038-78f2-407d-af08-3f4924cc6ca2")
+		)
+		(pin "9"
+			(uuid "f7d3ead5-7572-4d62-99f3-67de9b2696b4")
+		)
+		(pin "19"
+			(uuid "a8c3e7f5-c34a-4ee2-a121-63a730cc63d7")
+		)
+		(pin "14"
+			(uuid "ac242896-d71a-4aec-bd52-9b6e0f652179")
+		)
+		(pin "1"
+			(uuid "35cba700-e3e8-4ffd-9afc-1397eb6b8926")
+		)
+		(pin "15"
+			(uuid "479c59e1-be00-46a1-8849-84e5cd173857")
+		)
+		(pin "2"
+			(uuid "363ee1f8-b74d-44fa-9b2b-0eb1e96235b1")
+		)
+		(pin "11"
+			(uuid "89744219-1848-4926-b5be-e506ea3908b6")
+		)
+		(pin "6"
+			(uuid "3e5109a4-b9a0-433b-933d-620f3ed446ba")
+		)
+		(pin "5"
+			(uuid "5b2e196a-1fc6-405b-993e-9dfbfcb71516")
+		)
+		(pin "17"
+			(uuid "72e977b8-9dee-4186-94ee-10df5c893729")
+		)
+		(pin "8"
+			(uuid "4d15c706-2b45-409e-94b9-b3a4abd22c02")
+		)
+		(pin "3"
+			(uuid "e0fa7a44-df55-42f0-a580-d5c0ce9cbe13")
+		)
+		(pin "20"
+			(uuid "0f890849-e83c-450b-a898-c05d66a641ed")
+		)
+		(pin "10"
+			(uuid "138da315-1a8b-4756-a148-185b931ffd18")
+		)
+		(pin "12"
+			(uuid "3d606401-37f3-4791-9abb-f38424261b6e")
+		)
+		(pin "16"
+			(uuid "c2ff5c3c-f08e-4625-a2a2-7a3d5bc2c3f6")
+		)
+		(pin "4"
+			(uuid "70175f37-1acf-46ad-8820-bacfdde636d5")
+		)
+		(pin "18"
+			(uuid "bcd82bcc-6136-47e3-a772-6f8c98e39455")
+		)
+		(pin "13"
+			(uuid "87876544-eaa4-462c-b609-8449618789ce")
+		)
+		(instances
+			(project ""
+				(path "/ece4ddd9-bce6-488f-8cc3-9727cdb2c227/d497c731-ecbc-4d5d-ad4c-a9fe03a8c88f"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "nae_caps:CAP_100n_6.3V_0603")
 		(at 252.73 80.01 90)
 		(unit 1)
@@ -6401,7 +6585,7 @@
 		(dnp no)
 		(uuid "0dc2f45d-4e6a-4ed9-91f2-e0a86009af2d")
 		(property "Reference" "C5"
-			(at 220.726 36.83 90)
+			(at 220.726 37.084 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6446,7 +6630,7 @@
 			)
 		)
 		(property "Display Value" "2u2"
-			(at 220.726 39.37 90)
+			(at 220.726 38.862 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6518,6 +6702,562 @@
 			(project ""
 				(path "/ece4ddd9-bce6-488f-8cc3-9727cdb2c227/d497c731-ecbc-4d5d-ad4c-a9fe03a8c88f"
 					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "NAE_Integrated_Circuits:MK82FN256VLL15")
+		(at 102.87 26.67 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0faa2416-08e4-4da0-927e-a71612503a4b")
+		(property "Reference" "U1"
+			(at 77.47 21.844 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MK82FN256VLL15"
+			(at 97.79 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Package_QFP:LQFP-100_14x14mm_P0.5mm"
+			(at 86.36 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.nxp.com/docs/en/data-sheet/K82P121M150SF5.pdf"
+			(at 116.84 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "IC MCU 32BIT 256KB FLASH 100LQFP"
+			(at 106.68 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display Value" "MK82FN256VLL15"
+			(at 84.582 184.404 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "NXP USA Inc."
+			(at 77.47 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "MK82FN256VLL15"
+			(at 76.2 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1" "DigiKey"
+			(at 71.12 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Part Number" "MK82FN256VLL15-ND"
+			(at 99.06 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 2" ""
+			(at 133.35 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 2 Part Number" ""
+			(at 133.35 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "51"
+			(uuid "d44e710e-5ea4-449f-b6f5-fd01390e6cc3")
+		)
+		(pin "1"
+			(uuid "3bf74059-36a8-4693-af8e-0e29fc47c4eb")
+		)
+		(pin "45"
+			(uuid "c2e44d97-6d91-45a6-8a1b-9f8c236510a8")
+		)
+		(pin "11"
+			(uuid "f0cee8cc-1d63-49a9-8e31-ed05a8f26aa7")
+		)
+		(pin "63"
+			(uuid "ec8f7983-edaa-4e84-ade0-3f06653e516c")
+		)
+		(pin "25"
+			(uuid "c7c4402f-01ba-4bb3-9127-1bc110f1b652")
+		)
+		(pin "38"
+			(uuid "08c9ab1a-91e6-4477-9ac6-35182b0fb1b9")
+		)
+		(pin "64"
+			(uuid "4b1e8c64-16ee-46ed-974a-15f9bbc973fa")
+		)
+		(pin "26"
+			(uuid "f259599c-8e7c-4cf4-9e2f-7e523bbf5fd3")
+		)
+		(pin "47"
+			(uuid "dd3a7f6b-dea7-47c9-8f40-8ea3bf0199c5")
+		)
+		(pin "65"
+			(uuid "0de8e30e-13fb-4787-80c1-bbc51a9900e3")
+		)
+		(pin "100"
+			(uuid "74f3c055-dca7-484d-9152-c6e3a43a74f3")
+		)
+		(pin "46"
+			(uuid "04fc99a2-ae29-4db1-ab89-934ad2aea092")
+		)
+		(pin "28"
+			(uuid "2b7bd594-9516-4249-b45e-36e010eb610c")
+		)
+		(pin "16"
+			(uuid "5e1032c7-bc98-40ac-98b9-b8bbd5561c30")
+		)
+		(pin "29"
+			(uuid "d4ce816e-c0cf-41ca-b21a-f4ed547cef30")
+		)
+		(pin "17"
+			(uuid "ae726994-3d40-4aaa-8fbc-6df99323fb71")
+		)
+		(pin "3"
+			(uuid "6605784c-1f6e-496b-be5f-c3311a3bd590")
+		)
+		(pin "31"
+			(uuid "24b1acfc-403b-4baa-9a0c-c27c91eacff5")
+		)
+		(pin "49"
+			(uuid "a6521d29-1a64-4986-96a7-70fd2687ab99")
+		)
+		(pin "5"
+			(uuid "57b7aff3-3aaf-4993-bd3a-7e229750b7ac")
+		)
+		(pin "13"
+			(uuid "f5466ac0-c6fe-4810-9e8e-4fddbeacc834")
+		)
+		(pin "18"
+			(uuid "a937d8dd-c875-45e6-8976-8720de994d0e")
+		)
+		(pin "32"
+			(uuid "030ed558-7c1c-44cd-b69a-dab2483e0a09")
+		)
+		(pin "20"
+			(uuid "61b793a8-fa82-46cf-80fd-60946e7d1b40")
+		)
+		(pin "24"
+			(uuid "0c907bae-63a0-4226-a5e5-16c3bc3498b3")
+		)
+		(pin "50"
+			(uuid "4f3c3ba3-8991-4094-818d-847e55a1cf16")
+		)
+		(pin "41"
+			(uuid "e3d94fd9-58ce-4820-9499-8c421b580260")
+		)
+		(pin "2"
+			(uuid "e47ccd78-2333-49a3-b4fe-3adf7304394e")
+		)
+		(pin "15"
+			(uuid "463f898d-671f-474f-a138-60a4dac4e178")
+		)
+		(pin "33"
+			(uuid "86bfd4ba-fd96-4d71-a048-9bf4801c3f93")
+		)
+		(pin "4"
+			(uuid "f342941a-7d03-4dd4-b86d-fd7b195ab53d")
+		)
+		(pin "19"
+			(uuid "61c33d1a-c800-41e3-84c1-36cc044f730c")
+		)
+		(pin "30"
+			(uuid "ed700528-32a3-40f2-9a69-27ba9aa8af79")
+		)
+		(pin "42"
+			(uuid "1c85d3a5-6a10-417f-8294-fc136544603f")
+		)
+		(pin "44"
+			(uuid "6d86f2a1-7335-40f4-b438-219805ba9083")
+		)
+		(pin "36"
+			(uuid "4f4c31a7-2c02-45c6-9615-630888596464")
+		)
+		(pin "53"
+			(uuid "38c60248-79fa-4b78-9468-9a2013148b3b")
+		)
+		(pin "34"
+			(uuid "42e35a94-cd58-48af-8895-eb0811ce290d")
+		)
+		(pin "35"
+			(uuid "642b7db7-c569-49a9-bebe-3ae95c545897")
+		)
+		(pin "40"
+			(uuid "7a994cbc-55d4-4310-bddf-2b1ef22f699f")
+		)
+		(pin "55"
+			(uuid "f9676cdd-1497-42fc-825f-352eaa14cb88")
+		)
+		(pin "58"
+			(uuid "08bb3a04-d919-473c-a2cf-8ac9c9137e29")
+		)
+		(pin "12"
+			(uuid "6a781171-450d-46d5-afcc-d4d444af13aa")
+		)
+		(pin "59"
+			(uuid "f1980829-320a-4a2d-879d-18e3747803c9")
+		)
+		(pin "6"
+			(uuid "ac09d13e-8ecc-41bd-a177-a528dc18fb52")
+		)
+		(pin "60"
+			(uuid "f6d87c23-cf9d-46ba-a5b0-596aea8ff074")
+		)
+		(pin "10"
+			(uuid "cbf7c4bf-6a99-4bfc-985b-3ec27a410768")
+		)
+		(pin "14"
+			(uuid "294e66c6-b6b4-405e-96de-f0fcc523b6d2")
+		)
+		(pin "62"
+			(uuid "e13cb78b-e8de-4f77-af99-d42d1c16769d")
+		)
+		(pin "22"
+			(uuid "5948bc97-badd-4e66-958c-f26639993ea9")
+		)
+		(pin "37"
+			(uuid "bd00e1be-6a71-488b-a812-e18286ff92ea")
+		)
+		(pin "52"
+			(uuid "b604f1f2-7933-4938-aee1-efd3d22b28b7")
+		)
+		(pin "43"
+			(uuid "9a093d26-3881-4364-8daa-ade71eb09f9e")
+		)
+		(pin "54"
+			(uuid "0dbaea47-a629-497f-bef8-ec84fedefbd7")
+		)
+		(pin "56"
+			(uuid "cc0d5992-ed08-4c55-b933-e2b4ffaa1be7")
+		)
+		(pin "57"
+			(uuid "c1b9a32c-2ac7-4164-9b7c-dc7194809353")
+		)
+		(pin "61"
+			(uuid "79d7a282-c447-42d3-98fa-7a9b5d1bd04c")
+		)
+		(pin "48"
+			(uuid "c1436653-3536-4f8f-adef-1a4095d010e7")
+		)
+		(pin "21"
+			(uuid "520f2de9-b3c0-4dba-a1d1-c24a7ee8de1e")
+		)
+		(pin "23"
+			(uuid "cee91060-2d84-4001-91d5-37c44c4fcfa9")
+		)
+		(pin "39"
+			(uuid "69463130-5b87-487f-b234-c623cc728a1f")
+		)
+		(pin "27"
+			(uuid "ba88f7fb-5a87-46fd-9cf1-44a7f617fa51")
+		)
+		(pin "78"
+			(uuid "37f62fdd-0d1b-43d0-85d5-0b461acd1ca9")
+		)
+		(pin "90"
+			(uuid "c231e5e3-93de-4949-9d77-aef56e35e3bf")
+		)
+		(pin "68"
+			(uuid "32cc2e48-d19a-475c-91b4-735c041cc919")
+		)
+		(pin "79"
+			(uuid "d85aa006-6810-4e91-bfbd-822eae3370b3")
+		)
+		(pin "82"
+			(uuid "ed1ee7cd-19f3-4406-8f9f-c8f70df73e8b")
+		)
+		(pin "69"
+			(uuid "bb442ec3-55dd-4c94-a28f-48b296b109d8")
+		)
+		(pin "97"
+			(uuid "86ddb296-3f76-49b3-8ead-a4dc0fe6769b")
+		)
+		(pin "81"
+			(uuid "a032e559-711c-4e08-a145-d4cd89794a01")
+		)
+		(pin "70"
+			(uuid "fd926493-8013-4f9f-be9e-da08647c0dbe")
+		)
+		(pin "98"
+			(uuid "d17ad9f6-54f7-4bc1-aee8-6ab38715440d")
+		)
+		(pin "66"
+			(uuid "5c91c6e1-6494-43ee-a342-b203b4c2160e")
+		)
+		(pin "76"
+			(uuid "98f2d173-134f-4272-bd6c-bf43b7e329fd")
+		)
+		(pin "83"
+			(uuid "a382b06b-71d2-45d7-a380-5999c5bd1ce9")
+		)
+		(pin "9"
+			(uuid "adbfed38-bfc4-4927-a156-ce8bc7e97693")
+		)
+		(pin "84"
+			(uuid "4037f513-6c9f-441d-9ac4-b81111056b1e")
+		)
+		(pin "94"
+			(uuid "2f27222b-defd-4c97-b615-66788b1cd58e")
+		)
+		(pin "89"
+			(uuid "cb596c00-135b-4d1a-8f5f-5ff115cc94f3")
+		)
+		(pin "91"
+			(uuid "c4cfe48b-9ac8-4ba8-9d70-ad9dacaaa405")
+		)
+		(pin "86"
+			(uuid "b5bc3b68-5f69-4f9e-b553-80bd3451200d")
+		)
+		(pin "8"
+			(uuid "5bdc0367-356e-4386-9cbd-457e221684b3")
+		)
+		(pin "72"
+			(uuid "3f375c2e-fc62-4627-9f7c-c80ea474e99c")
+		)
+		(pin "85"
+			(uuid "e586b723-8986-4fad-a2cd-2a349e4ce673")
+		)
+		(pin "73"
+			(uuid "087eec85-7a00-4921-a27d-f2912762360c")
+		)
+		(pin "77"
+			(uuid "fd6b7e2e-fa4a-4dbe-ba19-d046b43d721f")
+		)
+		(pin "80"
+			(uuid "55f58bfc-2783-46fe-837f-42aba5688166")
+		)
+		(pin "99"
+			(uuid "ee87bf95-9cf1-4966-aa2e-4a147c904f38")
+		)
+		(pin "95"
+			(uuid "eaa4510e-cc30-4054-b30d-e8a8388a1826")
+		)
+		(pin "92"
+			(uuid "0f3fdd92-dc83-4c7e-8776-3517bab98c60")
+		)
+		(pin "88"
+			(uuid "a27e45d4-7e09-446b-9063-5ef838e855d2")
+		)
+		(pin "75"
+			(uuid "d8edf6b8-e8ef-4eb7-b19b-5d4ed7cc2967")
+		)
+		(pin "93"
+			(uuid "f7e22349-16f6-4bb8-8ce9-c468309aefe4")
+		)
+		(pin "71"
+			(uuid "e00b2319-d0c0-463c-a9b1-501b571b441f")
+		)
+		(pin "96"
+			(uuid "34211a42-be59-4c84-806f-0c6dffc8107a")
+		)
+		(pin "74"
+			(uuid "1102a929-56ac-4047-8bee-2b8bbf042fd6")
+		)
+		(pin "7"
+			(uuid "5f58f7c8-547a-434f-a375-d9696d89c69d")
+		)
+		(pin "87"
+			(uuid "c792dbe3-5d31-447b-bfb0-f3d6e1898379")
+		)
+		(pin "67"
+			(uuid "1c3b5894-2781-4267-8448-6e5f2c069198")
+		)
+		(instances
+			(project ""
+				(path "/ece4ddd9-bce6-488f-8cc3-9727cdb2c227/d497c731-ecbc-4d5d-ad4c-a9fe03a8c88f"
+					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "nae_caps:CAP_DNM_0603")
+		(at 170.18 38.1 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp yes)
+		(uuid "22d917ea-bdb9-46f1-bf4e-2a8551dcbd09")
+		(property "Reference" "C2"
+			(at 172.466 37.084 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "DNM_CAP_0603"
+			(at 189.23 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 185.42 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"
+			(at 180.34 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Non mounted 0603_1608 ceramic capacitor"
+			(at 177.8 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display Value" "DNM"
+			(at 172.466 38.8619 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Manufacturer" "KEMET"
+			(at 189.23 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C0603C225K4PAC7867"
+			(at 182.88 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1" "DigiKey"
+			(at 191.77 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Part Number" "399-C0603C225K4PAC7867CT-ND"
+			(at 191.77 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 2" ""
+			(at 170.18 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 2 Part Number" ""
+			(at 170.18 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "fceb74d7-2107-423e-9bf8-b2c9406d69af")
+		)
+		(pin "1"
+			(uuid "6a1824fc-d97e-48ee-9a13-33b973730cdf")
+		)
+		(instances
+			(project "CW312T-K82F"
+				(path "/ece4ddd9-bce6-488f-8cc3-9727cdb2c227/d497c731-ecbc-4d5d-ad4c-a9fe03a8c88f"
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -6665,7 +7405,7 @@
 		(dnp no)
 		(uuid "32f84ab1-f0b4-41d4-bcbc-92b9615ba0c2")
 		(property "Reference" "C3"
-			(at 200.406 36.83 90)
+			(at 200.406 37.084 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6710,7 +7450,7 @@
 			)
 		)
 		(property "Display Value" "100n"
-			(at 200.406 39.37 90)
+			(at 200.406 38.862 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6788,430 +7528,6 @@
 		)
 	)
 	(symbol
-		(lib_id "tutorial_2_library:MK82FN256VLL15")
-		(at 102.87 26.67 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "37898ea4-795a-4a55-86f2-9b4836c0a1f6")
-		(property "Reference" "U1"
-			(at 77.724 21.844 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MK82FN256VLL15"
-			(at 97.79 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Package_QFP:LQFP-100_14x14mm_P0.5mm"
-			(at 86.36 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.nxp.com/docs/en/data-sheet/K82P121M150SF5.pdf"
-			(at 116.84 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "IC MCU 32BIT 256KB FLASH 100LQFP"
-			(at 106.68 194.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Display Value" "MK82FN256VLL15"
-			(at 84.582 184.404 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "NXP USA Inc."
-			(at 77.47 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "MK82FN256VLL15"
-			(at 76.2 199.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier 1" "DigiKey"
-			(at 71.12 208.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier 1 Part Number" "MK82FN256VLL15-ND"
-			(at 99.06 208.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier 2" ""
-			(at 133.35 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier 2 Part Number" ""
-			(at 133.35 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "45"
-			(uuid "dd541405-30e8-4019-88b9-2aa7a5166129")
-		)
-		(pin "66"
-			(uuid "e2219877-b273-43eb-9f18-4012526d4874")
-		)
-		(pin "11"
-			(uuid "c0792b75-011c-4092-a8f4-e240571277ac")
-		)
-		(pin "49"
-			(uuid "112e3854-a7a0-4825-a68f-4cc8b1aa3739")
-		)
-		(pin "5"
-			(uuid "b1c9df15-9cda-4989-9d9e-7763b60d0acf")
-		)
-		(pin "12"
-			(uuid "a4bbe628-736c-4c9a-895c-9efefed366ab")
-		)
-		(pin "17"
-			(uuid "b42a7ce3-b484-4229-8e7f-0eee8afcdf2b")
-		)
-		(pin "3"
-			(uuid "308a356e-e1fc-447b-8709-e98e0d27972e")
-		)
-		(pin "32"
-			(uuid "00a8e2ed-ffc5-4301-90d6-9f75aae65761")
-		)
-		(pin "4"
-			(uuid "10f3d707-54f8-43b6-b60d-54e5e7996310")
-		)
-		(pin "13"
-			(uuid "c04761b2-0eb6-4e1e-a1f3-613418badec9")
-		)
-		(pin "16"
-			(uuid "ffde4f61-8847-45f3-9d0c-a79bfcfc105a")
-		)
-		(pin "28"
-			(uuid "0f95ecde-e87e-4066-9c46-c31e6bb71c7c")
-		)
-		(pin "30"
-			(uuid "b2680cb1-cc84-470f-b64b-b6bb840f8b12")
-		)
-		(pin "2"
-			(uuid "098e2090-43b4-4898-8ff8-e9108cc4e1f7")
-		)
-		(pin "50"
-			(uuid "f3f137b7-ae61-4d74-a364-814e346d29e3")
-		)
-		(pin "14"
-			(uuid "2b5e5d91-d2c0-448a-8f52-31604eceafb4")
-		)
-		(pin "38"
-			(uuid "fc9dfc47-65a8-4018-a07b-845c8ecaadf5")
-		)
-		(pin "18"
-			(uuid "ce36ed82-6cee-4fec-984b-4bdeaa7eb8af")
-		)
-		(pin "41"
-			(uuid "6b724c6e-5000-4700-9ee0-e4321c02b708")
-		)
-		(pin "22"
-			(uuid "e458c97f-8212-4432-aa07-b8cb323a76e9")
-		)
-		(pin "31"
-			(uuid "eecedc62-134f-4eb2-84f5-bdfcf72eb722")
-		)
-		(pin "100"
-			(uuid "5b01881c-d942-4bcc-9117-023883276a66")
-		)
-		(pin "24"
-			(uuid "4c54e3d8-fe06-43bc-bea0-736eef1e5b43")
-		)
-		(pin "35"
-			(uuid "f3f8e305-cbc8-4087-a61b-8a5fce4dba29")
-		)
-		(pin "42"
-			(uuid "26b6e450-c890-4c2d-9ad6-d4120b6a84c5")
-		)
-		(pin "10"
-			(uuid "617de652-bd3b-4c89-bf9b-1e22892abe3f")
-		)
-		(pin "46"
-			(uuid "b3caa78f-95f3-4ffe-92c8-043908d71c2c")
-		)
-		(pin "48"
-			(uuid "9bf34af5-7e8b-4c19-afb2-65686c7974d7")
-		)
-		(pin "44"
-			(uuid "5dbe89d8-7b87-4c04-9c55-872bd4e64c9b")
-		)
-		(pin "53"
-			(uuid "567dfee8-de89-427c-8531-b84fd9ac6f45")
-		)
-		(pin "54"
-			(uuid "38e96bf4-2c73-4562-b1ae-b4ef2c888596")
-		)
-		(pin "20"
-			(uuid "73b5a8c8-4455-474d-a7c0-d5be15e6e7e1")
-		)
-		(pin "34"
-			(uuid "3ddad37a-5979-435e-9421-1e06ddf27da1")
-		)
-		(pin "21"
-			(uuid "a062514f-e3a8-481e-a306-1f7752af3e63")
-		)
-		(pin "37"
-			(uuid "0ebf96c1-c621-464f-940c-88a70be364b1")
-		)
-		(pin "43"
-			(uuid "8865f13b-015c-43c3-97c5-cba9af3be4e8")
-		)
-		(pin "36"
-			(uuid "b73f643f-1705-47f5-8d11-659018bdc987")
-		)
-		(pin "51"
-			(uuid "0d7f15cf-edda-4020-be5b-abf2c5b160fc")
-		)
-		(pin "57"
-			(uuid "ddea0049-91e8-436f-90d8-2fc9fea996ea")
-		)
-		(pin "58"
-			(uuid "3f4ba812-ea7f-415f-8049-d7cfe88e50c2")
-		)
-		(pin "59"
-			(uuid "a54148d0-ff4f-4a3f-ba64-eb936d945cbd")
-		)
-		(pin "33"
-			(uuid "b06029dd-0ff4-4fa9-85ef-3a84311f4806")
-		)
-		(pin "55"
-			(uuid "00a5c2ae-5556-4751-b3d4-fd28f43f51d1")
-		)
-		(pin "6"
-			(uuid "1866abc5-4299-45ef-b5f3-0b2631ab6c77")
-		)
-		(pin "60"
-			(uuid "12583651-ffc5-4a91-b9ce-82d0020c97ff")
-		)
-		(pin "61"
-			(uuid "05629d1a-ed66-4796-a25a-824e92014af2")
-		)
-		(pin "1"
-			(uuid "bda5f43b-9ace-4eb0-963b-30534601e116")
-		)
-		(pin "63"
-			(uuid "e0e348c1-1f21-46f5-85d2-ef932605cb14")
-		)
-		(pin "29"
-			(uuid "245c12a9-3851-4940-aad9-23097885439d")
-		)
-		(pin "27"
-			(uuid "701d055a-5f55-4a49-83a9-6c2432f73b14")
-		)
-		(pin "39"
-			(uuid "bd8691ca-4e2d-46bd-9f4e-e33a42b4aea2")
-		)
-		(pin "40"
-			(uuid "1143c90d-01da-4110-b3bb-597268d211cf")
-		)
-		(pin "15"
-			(uuid "ec4b8bb8-07e7-4f14-be0c-942c4366781f")
-		)
-		(pin "56"
-			(uuid "9267958a-86d5-4539-8255-81a066b848b0")
-		)
-		(pin "25"
-			(uuid "974190ae-c1d3-4538-b820-464fe8a8a8ba")
-		)
-		(pin "64"
-			(uuid "125f7e20-5723-4a21-8697-90f02a33a3e2")
-		)
-		(pin "62"
-			(uuid "a657e5c6-bf08-4600-bbe8-38a652710b5e")
-		)
-		(pin "65"
-			(uuid "6bbc18f4-c654-4050-a55a-c26fdfd77a80")
-		)
-		(pin "23"
-			(uuid "302fa758-6884-4a2d-9286-5545d7e14160")
-		)
-		(pin "19"
-			(uuid "a6d65169-4c4c-4baf-8d36-aa0eecff6514")
-		)
-		(pin "26"
-			(uuid "c72bc83e-40f2-4667-8634-eb96a71c082f")
-		)
-		(pin "47"
-			(uuid "a7555ad5-0f43-4ac6-9889-3ff78dc1c475")
-		)
-		(pin "52"
-			(uuid "bceccd01-44d8-4f02-9bd0-e38597ca42d1")
-		)
-		(pin "90"
-			(uuid "a64c999b-93e1-4a16-a119-68185d906da7")
-		)
-		(pin "93"
-			(uuid "b05ca637-74ca-4ce9-8e64-45fb8d9ca218")
-		)
-		(pin "75"
-			(uuid "dfe9b153-d588-47ac-8c16-aecf35760a1f")
-		)
-		(pin "89"
-			(uuid "03e27247-bd72-4f1a-8e93-9da7acd91156")
-		)
-		(pin "94"
-			(uuid "b6dfe8ef-c10c-4b8d-af1b-5592c6a034b5")
-		)
-		(pin "8"
-			(uuid "3f25a3f7-ba29-4859-a711-938c52fe5f1e")
-		)
-		(pin "83"
-			(uuid "36a870ac-b1c7-4b55-925e-947638e34614")
-		)
-		(pin "73"
-			(uuid "5bf1a602-dc00-4e98-8724-6f29a4626474")
-		)
-		(pin "9"
-			(uuid "62e889d7-50fd-4e81-bdc1-a632cb76de78")
-		)
-		(pin "86"
-			(uuid "70e7dc20-6128-433e-b851-1db73dd1ff62")
-		)
-		(pin "68"
-			(uuid "99689be7-3415-436c-9752-92ca6f9316c0")
-		)
-		(pin "92"
-			(uuid "c3675a58-4e0a-441a-be28-799e44cb3000")
-		)
-		(pin "96"
-			(uuid "61879167-8027-4782-aed6-7e4724ffda23")
-		)
-		(pin "71"
-			(uuid "e7ac4306-e725-44c1-8a2f-b926c5c01de1")
-		)
-		(pin "98"
-			(uuid "79b983fb-29bf-4458-be7f-4efeb63e9310")
-		)
-		(pin "76"
-			(uuid "7b939969-e24d-4d1e-bdf9-d6798ed9468c")
-		)
-		(pin "77"
-			(uuid "b0d51543-4c1c-4b32-9625-73ade5ca9c28")
-		)
-		(pin "87"
-			(uuid "ab555767-efc1-4c0e-bb69-6b37ec14a2b2")
-		)
-		(pin "67"
-			(uuid "eec94df7-17fb-4f8a-b517-efd14fdad1a9")
-		)
-		(pin "99"
-			(uuid "6cb112d7-6210-454e-b9c1-d070c1495d3f")
-		)
-		(pin "7"
-			(uuid "045d43fa-1be3-4bcd-b542-a3ea30fabe9c")
-		)
-		(pin "69"
-			(uuid "d8a8a2c1-cd05-4673-b102-43384796cb95")
-		)
-		(pin "82"
-			(uuid "ebe9ab09-8e4f-4578-a3a9-ebd0b3bced7a")
-		)
-		(pin "80"
-			(uuid "e5738970-6347-4705-a16a-0e3d25a46e34")
-		)
-		(pin "81"
-			(uuid "1b1dbdf8-31e1-4bb7-8d01-6c3b389867f2")
-		)
-		(pin "85"
-			(uuid "3c42ba67-2de6-4f70-9c8a-efee8d8832eb")
-		)
-		(pin "79"
-			(uuid "0d7aebee-c676-4447-a4d0-00ad162357f8")
-		)
-		(pin "74"
-			(uuid "5a1e0de1-4327-41a6-ba47-3d1af7dc9ae3")
-		)
-		(pin "88"
-			(uuid "62510cb4-1435-4c32-b0d9-eab3967ec27a")
-		)
-		(pin "84"
-			(uuid "467c8886-367f-4e88-bf79-466abb565afc")
-		)
-		(pin "97"
-			(uuid "7baa78ef-ee6c-4a0a-b103-b0b830b5f923")
-		)
-		(pin "70"
-			(uuid "42dd8901-2850-4248-a263-c16729ce206c")
-		)
-		(pin "72"
-			(uuid "5b04906b-3590-4035-bdf0-f0a41a61b61f")
-		)
-		(pin "78"
-			(uuid "1556632d-85fd-4f06-a1dc-b161f4f6f13d")
-		)
-		(pin "91"
-			(uuid "111a5157-b14f-4461-a2c7-550384ae9df3")
-		)
-		(pin "95"
-			(uuid "ffdc003f-adb0-4f2d-a26a-4848a7a3ea02")
-		)
-		(instances
-			(project ""
-				(path "/ece4ddd9-bce6-488f-8cc3-9727cdb2c227/d497c731-ecbc-4d5d-ad4c-a9fe03a8c88f"
-					(reference "U1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 237.49 92.71 0)
 		(unit 1)
@@ -7271,190 +7587,6 @@
 			(project ""
 				(path "/ece4ddd9-bce6-488f-8cc3-9727cdb2c227/d497c731-ecbc-4d5d-ad4c-a9fe03a8c88f"
 					(reference "#PWR017")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "tutorial_2_library:20_pin_header")
-		(at 219.71 118.11 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4f6de617-8026-4fd5-8ff3-b796340177b6")
-		(property "Reference" "J1"
-			(at 219.71 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "20_pin"
-			(at 224.79 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_2x10_P1.00mm_Vertical_SMD"
-			(at 213.36 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/boardwiretoboard/bwb_minitek127_btb.pdf"
-			(at 243.84 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "CONN HEADER SMD 20POS 1.27MM"
-			(at 233.68 207.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Display Value" "1296-T20"
-			(at 219.71 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Amphenol ICC (FCI)"
-			(at 204.47 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "20021121-00020T4LF"
-			(at 203.2 212.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier 1" "DigiKey"
-			(at 198.12 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier 1 Part Number" "20021121-00020T4LF-ND"
-			(at 226.06 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier 2" ""
-			(at 207.01 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier 2 Part Number" ""
-			(at 207.01 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "99cf3050-3243-42b6-983b-4ca053974838")
-		)
-		(pin "6"
-			(uuid "ba4023a9-6904-4e85-9689-9462fcf83c51")
-		)
-		(pin "11"
-			(uuid "2bea99a7-44ae-4695-8aac-750585491b09")
-		)
-		(pin "3"
-			(uuid "1fdb53ca-9ef2-454b-ba78-d8468b31ba5c")
-		)
-		(pin "10"
-			(uuid "e1058833-5561-44e8-ab0f-8e6e592b18bf")
-		)
-		(pin "17"
-			(uuid "0a716a5c-c3c6-4ee4-b803-c50be274db70")
-		)
-		(pin "14"
-			(uuid "1d1c0088-a2a2-487f-ac73-e317da4306bc")
-		)
-		(pin "1"
-			(uuid "d3718357-1724-493b-a836-dae5028b49ef")
-		)
-		(pin "5"
-			(uuid "fd85b068-daa6-477b-aec8-a0c9e0364acc")
-		)
-		(pin "16"
-			(uuid "71002b66-4517-4e28-9b94-f54c5a61e7c8")
-		)
-		(pin "8"
-			(uuid "77eadb63-1358-4e37-8682-79ae007ecb81")
-		)
-		(pin "15"
-			(uuid "89f8b84b-c97c-46e6-8dd2-bcb3157c2d66")
-		)
-		(pin "12"
-			(uuid "1fbd5393-d4d7-4f34-80da-86e15ab83e7a")
-		)
-		(pin "13"
-			(uuid "bb8b371c-b538-4a90-930c-dccf77772203")
-		)
-		(pin "20"
-			(uuid "567f9ec7-8d81-4723-b8ae-a7ac30eaea7e")
-		)
-		(pin "18"
-			(uuid "90e27bb0-2e28-4e5e-92a6-4011018765ee")
-		)
-		(pin "9"
-			(uuid "e0fee5ba-583d-4818-b115-dbfdc66c5da7")
-		)
-		(pin "2"
-			(uuid "67de4fb0-d6c0-44e9-b1d3-2aac709f8157")
-		)
-		(pin "19"
-			(uuid "732ec412-8524-432b-826f-6bc6fc83d6ec")
-		)
-		(pin "7"
-			(uuid "f95e3803-fe9c-4a36-97d6-8bceb33bafe6")
-		)
-		(instances
-			(project ""
-				(path "/ece4ddd9-bce6-488f-8cc3-9727cdb2c227/d497c731-ecbc-4d5d-ad4c-a9fe03a8c88f"
-					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -8177,7 +8309,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 237.49 66.04 0)
+		(at 237.49 67.31 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8185,7 +8317,7 @@
 		(dnp no)
 		(uuid "80cc82a2-c670-40a9-8485-13d2bdf72429")
 		(property "Reference" "#PWR018"
-			(at 237.49 69.85 0)
+			(at 237.49 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8194,7 +8326,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 237.49 61.976 0)
+			(at 237.49 63.246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8202,7 +8334,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 237.49 66.04 0)
+			(at 237.49 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8211,7 +8343,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 237.49 66.04 0)
+			(at 237.49 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8220,7 +8352,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 237.49 66.04 0)
+			(at 237.49 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8380,7 +8512,7 @@
 		(dnp no)
 		(uuid "8c917d35-3da3-44b5-bcc2-ab3e0384c5b8")
 		(property "Reference" "C4"
-			(at 210.566 36.83 90)
+			(at 210.566 37.084 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8425,7 +8557,7 @@
 			)
 		)
 		(property "Display Value" "100n"
-			(at 210.566 39.37 90)
+			(at 210.566 38.862 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8765,270 +8897,6 @@
 		)
 	)
 	(symbol
-		(lib_id "tutorial_2_library:DNM_0603_cap")
-		(at 170.18 38.1 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(uuid "9a878831-39a6-4a2c-ab8e-19fc35ad2f26")
-		(property "Reference" "C2"
-			(at 172.466 36.83 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "DNM_CAP_0603"
-			(at 151.13 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 154.94 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"
-			(at 160.02 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Non mounted 0603_1608 ceramic capacitor"
-			(at 162.56 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Display Value" "DNM"
-			(at 172.466 39.37 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Manufacturer" "KEMET"
-			(at 151.13 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "C0603C225K4PAC7867"
-			(at 157.48 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier 1" "DigiKey"
-			(at 148.59 19.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier 1 Part Number" "399-C0603C225K4PAC7867CT-ND"
-			(at 148.59 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier 2" ""
-			(at 170.18 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier 2 Part Number" ""
-			(at 170.18 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "9852b7a2-316e-40f1-bccc-c5f295027741")
-		)
-		(pin "1"
-			(uuid "7a69bf05-e5ca-4da4-ba32-9c447c0570cb")
-		)
-		(instances
-			(project "CW312T-K82F"
-				(path "/ece4ddd9-bce6-488f-8cc3-9727cdb2c227/d497c731-ecbc-4d5d-ad4c-a9fe03a8c88f"
-					(reference "C2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "tutorial_2_library:DNM_0603_cap")
-		(at 161.29 38.1 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(uuid "9cb3dfcf-2e40-4b43-ab34-dfff5411961a")
-		(property "Reference" "C1"
-			(at 163.576 36.576 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "DNM_CAP_0603"
-			(at 142.24 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 146.05 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"
-			(at 151.13 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Non mounted 0603_1608 ceramic capacitor"
-			(at 153.67 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Display Value" "DNM"
-			(at 163.576 39.116 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Manufacturer" "KEMET"
-			(at 142.24 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "C0603C225K4PAC7867"
-			(at 148.59 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier 1" "DigiKey"
-			(at 139.7 19.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier 1 Part Number" "399-C0603C225K4PAC7867CT-ND"
-			(at 139.7 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier 2" ""
-			(at 161.29 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier 2 Part Number" ""
-			(at 161.29 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "78123826-d157-4a81-8afe-c8fdb56820a8")
-		)
-		(pin "1"
-			(uuid "15076648-fb8c-47f1-afe4-06b0af1d8937")
-		)
-		(instances
-			(project ""
-				(path "/ece4ddd9-bce6-488f-8cc3-9727cdb2c227/d497c731-ecbc-4d5d-ad4c-a9fe03a8c88f"
-					(reference "C1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:VCC")
 		(at 26.67 109.22 0)
 		(unit 1)
@@ -9153,6 +9021,138 @@
 			(project "CW312T-K82F"
 				(path "/ece4ddd9-bce6-488f-8cc3-9727cdb2c227/d497c731-ecbc-4d5d-ad4c-a9fe03a8c88f"
 					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "nae_caps:CAP_DNM_0603")
+		(at 161.29 38.1 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp yes)
+		(uuid "a4d959cd-1d3a-4513-92de-5e4e8a85a549")
+		(property "Reference" "C1"
+			(at 163.576 37.084 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "DNM_CAP_0603"
+			(at 180.34 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 176.53 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"
+			(at 171.45 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Non mounted 0603_1608 ceramic capacitor"
+			(at 168.91 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display Value" "DNM"
+			(at 163.576 38.8619 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Manufacturer" "KEMET"
+			(at 180.34 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C0603C225K4PAC7867"
+			(at 173.99 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1" "DigiKey"
+			(at 182.88 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Part Number" "399-C0603C225K4PAC7867CT-ND"
+			(at 182.88 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 2" ""
+			(at 161.29 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 2 Part Number" ""
+			(at 161.29 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "01e3beef-ecb7-4f1c-9962-028eb1447772")
+		)
+		(pin "1"
+			(uuid "a8943ef5-e69c-467e-8c7f-f24428557b3f")
+		)
+		(instances
+			(project ""
+				(path "/ece4ddd9-bce6-488f-8cc3-9727cdb2c227/d497c731-ecbc-4d5d-ad4c-a9fe03a8c88f"
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -9292,7 +9292,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 205.74 152.4 0)
+		(at 205.74 148.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9300,7 +9300,7 @@
 		(dnp no)
 		(uuid "d09066ea-cdd8-4209-9ebc-e8619c5d058e")
 		(property "Reference" "#PWR07"
-			(at 205.74 158.75 0)
+			(at 205.74 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9309,7 +9309,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 205.74 156.464 0)
+			(at 205.74 152.654 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9317,7 +9317,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 205.74 152.4 0)
+			(at 205.74 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9326,7 +9326,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 152.4 0)
+			(at 205.74 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9335,7 +9335,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 205.74 152.4 0)
+			(at 205.74 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
